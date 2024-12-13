@@ -25,7 +25,7 @@ Este é um projeto de blog desenvolvido com **React.js** no frontend, **Node.js*
    ```bash
    npm install
 
-3. Crie o arquivo .env na raiz do projeto, digite CONNECT_URL = "" e coloque seu link com usuário e senha do cluster do Atlas MongoDB dento das aspas:
+3. Crie o arquivo .env na raiz do projeto, digite CONNECT_URL = "" e coloque seu link da opção Drivers (deve ser node) com usuário e senha do cluster do Atlas MongoDB dento das aspas:
    CONNECT_URL = "mongodb+srv://user:password@cluster0.5w45j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 4. Inicie o servidor de desenvolvimento:
